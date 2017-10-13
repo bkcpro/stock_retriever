@@ -1,0 +1,14 @@
+Contact Info of Python Team 6 Members:
+
+Name 			.	Email
+
+Web-crawling Group
+Ming Li				mli@itu.edu
+Xuguang Liu			lxuguang@itu.edu
+Yandong Xiao			yxiao@itu.edu
+
+UI Group
+Fang Wang			wangfang489@students.itu.edu
+Nija Jojen			yxiao@itu.edu
+Bhargava			wangfang489@students.itu.edu
+

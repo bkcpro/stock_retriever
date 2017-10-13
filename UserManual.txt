@@ -1,0 +1,13 @@
+USER MANUAL
+
+Main window:
+1. Please input company name in the Search window
+2. Click [Search] button
+3. Click [Stock Price] / [Company History] / [Relevant Analysis] / [Latest News] / [Industry Trend] buttons to retrieve corresponding info
+4. Click [Save Search Result] button to save search result; text info and pictures will be saved respectively.
+
+Outer Frame:
+[About]: Will open User Manual, Introductory to Google Finance, Introductory to ITU, and Introductory to the Development Team.
+[User Manual]: Details of how to use the system
+
+
